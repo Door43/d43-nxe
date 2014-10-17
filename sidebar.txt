@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nxe:home|Door43 (nxe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nxe|d43-nxe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nxe/archive/master.zip|d43-nxe.zip]]
+
+**Recent Changes**
+{{changes>ns = nxe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nxe|Ethnologue data]]
+
